@@ -77,7 +77,7 @@ Instructions (also available in the _canvas_ of the application):
 * [**_WebGL_**](https://get.webgl.org/)
 * [**_Three.js_**](https://threejs.org/)
 * [**_COLLADA_**](https://en.wikipedia.org/wiki/COLLADA)
-* [**_Super Mario Bros.' 3D COLLADA Models_**](https://en.wikipedia.org/wiki/COLLADA)
+* [**_Super Mario Bros.' 3D COLLADA Models_**](https://www.models-resource.com/wii_u/mariokart8/)
 * [**_Atom_**](https://atom.io/)
 * [**_Brackets_**](http://brackets.io/)
 * [**_Blender_**](https://www.blender.org/)
