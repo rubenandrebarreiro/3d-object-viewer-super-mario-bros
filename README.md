@@ -68,6 +68,7 @@ Instructions (also available in the _canvas_ of the application):
 
 #### Notes (IMPORTANT)
 1) It's **_mandatory_** to have the folders called **_common_**, **_audio_**, **_bin_**, **_imgs_** and **_models_** in the local repository, because it's where are the necessary **_WebGL utilities_**, **_Three.js utilities_**, **_geometric/solid figures_**, **_audio files_**, **_textures_**, **_3D COLLADA Models' files_** and **_other libraries_**
+2) This application have an embed **_audio file_** with an **_autoplay_** and **_loop_** option, that you can **_mute_** using your _Web browser_. The **_audio file it's played_** every time you open the application in your _Web browser_!
 
 ## Built with
 * [**_HTML_**](https://www.w3schools.com/html/)
