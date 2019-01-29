@@ -1,6 +1,6 @@
 # 3D Object Viewer - Super Mario Bros.
 
-A project based **_Computer Graphics and Interfaces_**, using **_3D Modelling_** and **_3D COLLADA Models_**. This project was built using [**_HTML_**](https://www.w3schools.com/html/), [**_CSS_**](https://www.w3schools.com/css/), [**_JavaScript_**](https://www.w3schools.com/js/), [**_WebGL_**](https://get.webgl.org/), [**_Three.js_**](https://threejs.org/) and [**_3D COLLADA Models_**](https://en.wikipedia.org/wiki/COLLADA) from the _Mario Kart 8_ videogame for _Nintendo Wii U_. The application allows to view all the characters present in this videogame from _Super Mario Bros.' Universe_!
+A project based **_Computer Graphics and Interfaces_**, using **_3D Modelling_** and **_3D COLLADA (COLLAborative Design Activity) Models_**. This project was built using [**_HTML_**](https://www.w3schools.com/html/), [**_CSS_**](https://www.w3schools.com/css/), [**_JavaScript_**](https://www.w3schools.com/js/), [**_WebGL_**](https://get.webgl.org/), [**_Three.js_**](https://threejs.org/) and [**_3D COLLADA (COLLAborative Design Activity) Models_**](https://en.wikipedia.org/wiki/COLLADA) from the _Mario Kart 8_ videogame for _Nintendo Wii U_. The application allows to view all the characters present in this videogame from _Super Mario Bros.' Universe_!
 
 > You can view an _online demo_, [clicking here](https://rubenandrebarreiro.github.io/projects/threejs/3d-object-viewer-super-mario-bros/3d-object-viewer-super-mario-bros.html)!
 
@@ -67,7 +67,7 @@ Instructions (also available in the _canvas_ of the application):
 3) Choose also the current **_Factor_** to the **_Scale_** of the current **_Fractal_** in use
 
 #### Notes (IMPORTANT)
-1) It's **_mandatory_** to have the folders called **_common_**, **_audio_**, **_bin_**, **_imgs_** and **_models_** in the local repository, because it's where are the necessary **_WebGL utilities_**, **_Three.js utilities_**, **_geometric/solid figures_**, **_audio files_**, **_textures_**, **_3D COLLADA Models' files_** and **_other libraries_**
+1) It's **_mandatory_** to have the folders called **_common_**, **_audio_**, **_bin_**, **_imgs_** and **_models_** in the local repository, because it's where are the necessary **_WebGL utilities_**, **_Three.js utilities_**, **_geometric/solid figures_**, **_audio files_**, **_textures_**, **_3D COLLADA (COLLAborative Design Activity) Models' files_** and **_other libraries_**
 2) This application have an embed **_audio file_** with an **_autoplay_** and **_loop_** option, that you can **_mute_** using your _Web browser_. The **_audio file it's played_** every time you open the application in your _Web browser_!
 
 ## Built with
@@ -77,8 +77,8 @@ Instructions (also available in the _canvas_ of the application):
 * [**_JSON_**](https://www.json.org/)
 * [**_WebGL_**](https://get.webgl.org/)
 * [**_Three.js_**](https://threejs.org/)
-* [**_COLLADA_**](https://en.wikipedia.org/wiki/COLLADA)
-* [**_Super Mario Bros.' 3D COLLADA Models_**](https://www.models-resource.com/wii_u/mariokart8/)
+* [**_COLLADA (COLLAborative Design Activity)_**](https://en.wikipedia.org/wiki/COLLADA)
+* [**_Super Mario Bros.' 3D COLLADA (COLLAborative Design Activity) Models_**](https://www.models-resource.com/wii_u/mariokart8/)
 * [**_Atom_**](https://atom.io/)
 * [**_Brackets_**](http://brackets.io/)
 * [**_Blender_**](https://www.blender.org/)
