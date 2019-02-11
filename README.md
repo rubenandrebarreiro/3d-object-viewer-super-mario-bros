@@ -71,7 +71,7 @@ Instructions (also available in the _canvas_ of the application):
 2) This application have an embed **_audio file_** with an **_autoplay_** and **_loop_** option, that you can **_mute_** using your _Web browser_. The **_audio file it's played_** every time you open the application in your _Web browser_!
 
 ## Built with
-* [**_HTML (HyperText Markup Library)_**](https://www.w3schools.com/html/)
+* [**_HTML (HyperText Markup Language)_**](https://www.w3schools.com/html/)
 * [**_CSS (Cascade Style Sheets)_**](https://www.w3schools.com/css/)
 * [**_JavaScript_**](https://www.w3schools.com/js/)
 * [**_WebGL (Web Graphics Library)_**](https://get.webgl.org/)
