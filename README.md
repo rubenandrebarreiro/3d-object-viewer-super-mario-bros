@@ -1,6 +1,6 @@
 # 3D Object Viewer - Super Mario Bros.
 
-A project based **_Computer Graphics and Interfaces_**, using **_3D Modelling_** and **_3D COLLADA (COLLAborative Design Activity) Models_**. This project was built using [**_HTML_**](https://www.w3schools.com/html/), [**_CSS_**](https://www.w3schools.com/css/), [**_JavaScript_**](https://www.w3schools.com/js/), [**_WebGL_**](https://get.webgl.org/), [**_Three.js_**](https://threejs.org/) and [**_3D COLLADA (COLLAborative Design Activity) Models_**](https://en.wikipedia.org/wiki/COLLADA) from the _Mario Kart 8_ videogame for _Nintendo Wii U_. The application allows to view all the characters present in this videogame from _Super Mario Bros.' Universe_!
+A project based **_Computer Graphics and Interfaces_**, using **_3D Modelling_** and **_3D COLLADA (COLLAborative Design Activity) Models_**. This project was built using [**_HTML (HyperText Markup Language)_**](https://www.w3schools.com/html/), [**_CSS (Cascade Style Sheets)_**](https://www.w3schools.com/css/), [**_JavaScript_**](https://www.w3schools.com/js/), [**_WebGL (Web Graphics Library)_**](https://get.webgl.org/), [**_Three.js_**](https://threejs.org/) and [**_3D COLLADA (COLLAborative Design Activity) Models_**](https://en.wikipedia.org/wiki/COLLADA) from the _Mario Kart 8_ videogame for _Nintendo Wii U_. The application allows to view all the characters present in this videogame from _Super Mario Bros.' Universe_!
 
 > You can view an _online demo_, [clicking here](https://rubenandrebarreiro.github.io/projects/threejs/3d-object-viewer-super-mario-bros/3d-object-viewer-super-mario-bros.html)!
 
@@ -71,11 +71,10 @@ Instructions (also available in the _canvas_ of the application):
 2) This application have an embed **_audio file_** with an **_autoplay_** and **_loop_** option, that you can **_mute_** using your _Web browser_. The **_audio file it's played_** every time you open the application in your _Web browser_!
 
 ## Built with
-* [**_HTML_**](https://www.w3schools.com/html/)
-* [**_CSS_**](https://www.w3schools.com/css/)
+* [**_HTML (HyperText Markup Library)_**](https://www.w3schools.com/html/)
+* [**_CSS (Cascade Style Sheets)_**](https://www.w3schools.com/css/)
 * [**_JavaScript_**](https://www.w3schools.com/js/)
-* [**_JSON_**](https://www.json.org/)
-* [**_WebGL_**](https://get.webgl.org/)
+* [**_WebGL (Web Graphics Library)_**](https://get.webgl.org/)
 * [**_Three.js_**](https://threejs.org/)
 * [**_COLLADA (COLLAborative Design Activity)_**](https://en.wikipedia.org/wiki/COLLADA)
 * [**_Super Mario Bros.' 3D COLLADA (COLLAborative Design Activity) Models_**](https://www.models-resource.com/wii_u/mariokart8/)
@@ -87,17 +86,22 @@ Instructions (also available in the _canvas_ of the application):
 > [Rúben André Barreiro](https://github.com/rubenandrebarreiro/)
 
 ## Contacts
+
 ### Rúben André Barreiro
-#### GitHub's Portfolio/Personal Blog
-* [https://rubenandrebarreiro.github.io/](https://rubenandrebarreiro.github.io/)
-
-#### Repositories' Services
-* [https://github.com/rubenandrebarreiro/](https://github.com/rubenandrebarreiro/)
-* [https://gitlab.com/rubenandrebarreiro/](https://gitlab.com/rubenandrebarreiro/)
-* [https://bitbucket.org/rubenandrebarreiro/](https://bitbucket.org/rubenandrebarreiro/)
-
 #### E-mails
 * [ruben.barreiro.92@gmail.com](mailto:ruben.barreiro.92@gmail.com)
 * [r.barreiro@campus.fct.unl.pt](mailto:r.barreiro@campus.fct.unl.pt)
 * [up201808917@fe.up.pt](mailto:up201808917@fe.up.pt)
 * [up201808917@g.uporto.pt](mailto:up201808917@g.uporto.pt)
+
+
+## Portfolios/Blogs and Git Hosting/Repository Services
+
+### Rúben André Barreiro
+#### GitHub's Portfolio/Personal Blog
+* [https://rubenandrebarreiro.github.io/](https://rubenandrebarreiro.github.io/)
+
+#### Hosting/Repository Services
+* [https://github.com/rubenandrebarreiro/](https://github.com/rubenandrebarreiro/)
+* [https://gitlab.com/rubenandrebarreiro/](https://gitlab.com/rubenandrebarreiro/)
+* [https://bitbucket.org/rubenandrebarreiro/](https://bitbucket.org/rubenandrebarreiro/)
