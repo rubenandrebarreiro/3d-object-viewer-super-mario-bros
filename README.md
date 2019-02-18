@@ -1,5 +1,44 @@
 # 3D Object Viewer - Super Mario Bros.
 
+![https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/master/imgs/JPGs/banner-1.jpg)
+######  3D Object Viewer (Super Mario Bros.) - Banner #1
+
+***
+
+
+## Current Status
+[![contributor for this repository](https://img.shields.io/badge/contributor-rubenandrebarreiro-blue.svg)](https://github.com/rubenandrebarreiro/)
+[![current version](https://img.shields.io/badge/version-1.0-magenta.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
+
+[![status of this version no. 1](https://img.shields.io/badge/status-completed-orange.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
+[![status of this version no. 2](https://img.shields.io/badge/status-final-orange.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
+[![status of this version no. 3](https://img.shields.io/badge/status-stable-orange.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
+[![status of this version no. 4](https://img.shields.io/badge/status-documented-orange.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
+
+[![keyword of this version no. 1](https://img.shields.io/badge/keyword-2d-brown.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
+[![keyword of this version no. 2](https://img.shields.io/badge/keyword-graphics-brown.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
+[![keyword of this version no. 3](https://img.shields.io/badge/keyword-multimedia-brown.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
+[![keyword of this version no. 4](https://img.shields.io/badge/keyword-geometry-brown.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
+
+[![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-html-red.svg)](https://www.w3schools.com/html/) [![technology used no. 2](https://img.shields.io/badge/built&nbsp;with-css-red.svg)](https://www.w3schools.com/css/) [![technology used no. 3](https://img.shields.io/badge/built&nbsp;with-javascript-red.svg)](https://www.w3schools.com/js/) [![technology used no. 4](https://img.shields.io/badge/built&nbsp;with-webgl-red.svg)](https://get.webgl.org/)
+[![software used no. 1](https://img.shields.io/badge/software-atom-gold.svg)](http://atom.io/) 
+[![software used no. 2](https://img.shields.io/badge/software-brackets-gold.svg)](http://brackets.io/) 
+
+[![star this repository](http://githubbadges.com/star.svg?user=rubenandrebarreiro&repo=3d-object-viewer-super-mario-bros&style=flat)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/stargazers)
+[![fork this repository](http://githubbadges.com/fork.svg?user=rubenandrebarreiro&repo=3d-object-viewer-super-mario-bros&style=flat)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/fork)
+[![downloads of this repository](https://img.shields.io/github/downloads/rubenandrebarreiro/2d-rotative-shapes-dance/total.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/archive/master.zip)
+[![price of this project](https://img.shields.io/badge/price-free-success.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/archive/master.zip)
+
+##### Current Progress of the Project
+
+[![current progress of this project](http://progressed.io/bar/100?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/) 
+
+##### Final Approval Grade of the Project
+
+[![grade of this project](http://progressed.io/bar/19?scale=20&title=&nbsp;grade&nbsp;&suffix=&nbsp;)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
+
+
+## Description
 A project based **_Computer Graphics and Interfaces_**, using **_3D Modelling_** and **_3D COLLADA (COLLAborative Design Activity) Models_**. This project was built using [**_HTML (HyperText Markup Language)_**](https://www.w3schools.com/html/), [**_CSS (Cascade Style Sheets)_**](https://www.w3schools.com/css/), [**_JavaScript_**](https://www.w3schools.com/js/), [**_WebGL (Web Graphics Library)_**](https://get.webgl.org/), [**_Three.js_**](https://threejs.org/) and [**_3D COLLADA (COLLAborative Design Activity) Models_**](https://en.wikipedia.org/wiki/COLLADA) from the _Mario Kart 8_ videogame for _Nintendo Wii U_. The application allows to view all the characters present in this videogame from _Super Mario Bros.' Universe_!
 
 > You can view an _online demo_, [clicking here](https://rubenandrebarreiro.github.io/projects/threejs/3d-object-viewer-super-mario-bros/3d-object-viewer-super-mario-bros.html)!
@@ -60,11 +99,7 @@ You can run the application, by open the following file presented in the _root_ 
 
 Instructions (also available in the _canvas_ of the application):
 
-1) Use **_'Q'_** and **_'A'_** keys dive/emerge. Use **_click/drag/release_** in the **_canvas_** to move center point
 
-2) Choose the current **_Fractal's Set_** in use (**_Benoit Mandelbrot_** or **_Gaston Julia_**)
-
-3) Choose also the current **_Factor_** to the **_Scale_** of the current **_Fractal_** in use
 
 #### Notes (IMPORTANT)
 1) It's **_mandatory_** to have the folders called **_common_**, **_audio_**, **_bin_**, **_imgs_** and **_models_** in the local repository, because it's where are the necessary **_WebGL utilities_**, **_Three.js utilities_**, **_geometric/solid figures_**, **_audio files_**, **_textures_**, **_3D COLLADA (COLLAborative Design Activity) Models' files_** and **_other libraries_**
