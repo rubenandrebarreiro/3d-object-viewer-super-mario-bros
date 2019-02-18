@@ -15,10 +15,10 @@
 [![status of this version no. 3](https://img.shields.io/badge/status-stable-orange.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
 [![status of this version no. 4](https://img.shields.io/badge/status-documented-orange.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
 
-[![keyword of this version no. 1](https://img.shields.io/badge/keyword-2d-brown.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
+[![keyword of this version no. 1](https://img.shields.io/badge/keyword-3d-brown.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
 [![keyword of this version no. 2](https://img.shields.io/badge/keyword-graphics-brown.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
-[![keyword of this version no. 3](https://img.shields.io/badge/keyword-multimedia-brown.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
-[![keyword of this version no. 4](https://img.shields.io/badge/keyword-geometry-brown.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
+[![keyword of this version no. 3](https://img.shields.io/badge/keyword-mario-brown.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
+[![keyword of this version no. 4](https://img.shields.io/badge/keyword-bros-brown.svg)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
 
 [![technology used no. 1](https://img.shields.io/badge/built&nbsp;with-html-red.svg)](https://www.w3schools.com/html/) [![technology used no. 2](https://img.shields.io/badge/built&nbsp;with-css-red.svg)](https://www.w3schools.com/css/) [![technology used no. 3](https://img.shields.io/badge/built&nbsp;with-javascript-red.svg)](https://www.w3schools.com/js/) [![technology used no. 4](https://img.shields.io/badge/built&nbsp;with-webgl-red.svg)](https://get.webgl.org/) [![technology used no. 5](https://img.shields.io/badge/built&nbsp;with-threejs-red.svg)](https://www.threejs.org/) [![technology used no. 6](https://img.shields.io/badge/built&nbsp;with-collada&nbsp;models-red.svg)](https://en.wikipedia.org/wiki/COLLADA)
 
