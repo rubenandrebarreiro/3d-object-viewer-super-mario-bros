@@ -1,4 +1,4 @@
-# 3D Object Viewer - Super Mario Bros.
+# 3D Object Viewer (Super Mario Bros.) 
 
 ![https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/master/imgs/JPGs/banner-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/master/imgs/JPGs/banner-1.jpg)
 ######  3D Object Viewer (Super Mario Bros.) - Banner #1
@@ -43,12 +43,12 @@ A project based **_Computer Graphics and Interfaces_**, using **_3D Modelling_**
 
 ## Screenshots
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/master/imgs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/master/imgs/screenshot-1.jpg)
+![https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/master/imgs/JPGs/screenshot-1.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/master/imgs/JPGs/screenshot-1.jpg)
 ######  3D Object Viewer (Super Mario Bros.) - Screenshot #1
 
 ***
 
-![https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/master/imgs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/master/imgs/screenshot-2.jpg)
+![https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/master/imgs/JPGs/screenshot-2.jpg](https://raw.githubusercontent.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/master/imgs/JPGs/screenshot-2.jpg)
 ######  3D Object Viewer (Super Mario Bros.) - Screenshot #2
 
 ***
