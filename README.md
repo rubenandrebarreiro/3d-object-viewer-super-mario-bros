@@ -32,7 +32,7 @@
 
 ##### Current Progress of the Project
 
-[![current progress of this project](http://progressed.io/bar/40?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
+[![current progress of this project](http://progressed.io/bar/100?title=&nbsp;completed&nbsp;)](https://github.com/rubenandrebarreiro/3d-object-viewer-super-mario-bros/)
 
 
 ## Description
